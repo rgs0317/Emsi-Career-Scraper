@@ -73,11 +73,10 @@ for currentIndex,tmpid in enumerate(ids):
                'id':tmpid,
                'url': link
         }
-<<<<<<< HEAD:souplessScraper.py
+
     
 driver.quit()
-=======
->>>>>>> c49bb179dd2e32787985b307d5d9aca41592ee77:careerScraper.py
+
 
     #output as json
 json_object = json.dumps(jobListings, indent = 4)  
