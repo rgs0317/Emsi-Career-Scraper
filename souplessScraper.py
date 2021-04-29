@@ -1,17 +1,11 @@
 """
 @author: Gavin
-For Emsi Data Engineer, Web Scraping positon
 """
 
 '''
 Script designed to scrape data from Emsi's career page.
-<<<<<<< HEAD:souplessScraper.py
-This version uses regular expressions to parse the html. 
-
 =======
 This version uses regular expressions to parse the html 
-and then prints data as a JSON Object.
->>>>>>> c49bb179dd2e32787985b307d5d9aca41592ee77:careerScraper.py
 '''
 
 
