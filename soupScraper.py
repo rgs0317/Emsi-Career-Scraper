@@ -3,6 +3,10 @@
 @author: Gavin
 """
 
+'''
+Script designed to scrape data from Emsi's career page.
+This version uses BeautifulSoup to parse the HTML
+'''
 
 from selenium import webdriver
 from bs4 import BeautifulSoup
